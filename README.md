@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, my name is Khalid Abualtin and I have a cat named Goose. 
 
 <!--
 **khalidabualtin/khalidabualtin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
