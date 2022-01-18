@@ -1,6 +1,8 @@
 # Hi there😁
  **My name is Khalid.**
 *I have a cat named Goose*
+![image](https://user-images.githubusercontent.com/97945813/149910133-56f98675-3840-47bf-9843-1a7b4a1923e9.png)
+
 ~~This is a strikethrough~~ 
 <!--
 **khalidabualtin/khalidabualtin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
